@@ -1,7 +1,6 @@
 {
   "name": "Zehnder ComfoAirQ",
   "render_readme": true,
-  "codeowners": [],
   "dependencies": [],
   "documentation": "https://github.com/michaelarnauts/home-assistant-comfoconnect",
   "integration_type": "hub",
