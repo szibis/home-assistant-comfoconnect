@@ -1,4 +1,10 @@
 {
   "name": "Zehnder ComfoAirQ",
-  "render_readme": true
+  "render_readme": true,
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/michaelarnauts/home-assistant-comfoconnect",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": []
 }
