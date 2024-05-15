@@ -1,9 +1,8 @@
 {
   "name": "Zehnder ComfoAirQ",
   "render_readme": true,
-  "dependencies": [],
   "documentation": "https://github.com/michaelarnauts/home-assistant-comfoconnect",
-  "integration_type": "hub",
+  "integration_type": "device",
   "iot_class": "cloud_polling",
-  "requirements": []
+  "requirements": ["aiocomfoconnect==0.1.10"]
 }
