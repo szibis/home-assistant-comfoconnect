@@ -1,6 +1,5 @@
 {
   "name": "Zehnder ComfoAirQ",
   "render_readme": true,
-  "iot_class": "cloud_polling",
   "requirements": ["aiocomfoconnect==0.1.10"]
 }
