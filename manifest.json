@@ -7,6 +7,6 @@
   "integration_type": "device",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/michaelarnauts/home-assistant-comfoconnect/issues",
-  "requirements": ["aiocomfoconnect==0.1.10"]
+  "requirements": ["aiocomfoconnect==0.1.10"],
   "version": "v0.1.11"
 }
