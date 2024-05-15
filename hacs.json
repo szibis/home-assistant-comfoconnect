@@ -1,5 +1,4 @@
 {
   "name": "Zehnder ComfoAirQ",
   "render_readme": true,
-  "requirements": ["aiocomfoconnect==0.1.10"]
 }
